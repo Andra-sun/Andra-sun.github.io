@@ -1,11 +1,10 @@
 ---
 title: Portas Lógicas
-date: 2024-09-27T15:33:00-03:00
+date: 2024-09-27 15:33:00 -03:00
 categories: [estudo, sistemas computacionais, porta lógica]
 tags: [estudo, sistemas computacionais, portas lógicas, somador, binário, subtrator]
 ---
 
-# Portas Lógicas
 ## Neste post, vamos aprender sobre as portas lógicas
 ### O que são portas lógicas?
 As portas lógicas são componentes essenciais da eletrônica digital, responsáveis por realizar operações básicas sobre valores binários. Sua principal função é processar sinais de entrada e gerar uma saída com base em regras lógicas específicas, sendo fundamentais para o funcionamento de circuitos e sistemas digitais.
