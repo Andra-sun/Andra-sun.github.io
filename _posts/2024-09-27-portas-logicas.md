@@ -121,7 +121,7 @@ A porta NOR é uma combinação da porta OR seguida de uma porta NOT. Ela produz
 <br/>
 <img alt='nor' src="/assets/img/2024-09-27-portas-logicas/norGate.png" />
 
-
+<hr/>
 ## Diagrama
 Caso queira um diagrama com todas as portas lógicas, baixe este arquivo que é um Canva do Obsidian.
 
