@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: pt-br
+lang: pt-BR
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: America/Bahia
@@ -22,12 +22,11 @@ description:
   Este blog tem como objetivo postar assuntos no qual eu estou estudando ou que
   eu ja estudei no mundo da tecnologia.
 
-
 url: "https://Andra-sun.github.io"
 favicon: assets/img/android-chrome-192x192.png
 
 github:
-  username: Andra-sun 
+  username: Andra-sun
 
 twitter:
   username: c.a.m.i_le
@@ -42,7 +41,7 @@ social:
   email: camileguimaraes463@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-     # change to your Twitter homepage
+    # change to your Twitter homepage
     - https://github.com/Andra-sun
     - https://intagram.com/c.a.m.i_le
     # Uncomment below to add more social links
@@ -108,7 +107,6 @@ avatar: https://cdn-icons-png.freepik.com/512/3127/3127600.png
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: https://cdn-icons-png.freepik.com/512/3127/3127600.png
-
 
 # boolean type, the global switch for TOC in posts.
 toc: true
