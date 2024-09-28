@@ -29,6 +29,9 @@ A porta NOT, também conhecida como inverter, é uma porta lógica que inverte o
 |   1     |   0   |
 |   0     |   1   |
 
+- **Representação**
+<br/>
+<img src="/assets/img/2024-09-27-portas-logicas/notGate.png" />
 
 ### Porta AND (E)
 A porta AND, ou porta lógica E, é uma porta que produz 1 apenas se todas as entradas forem 1.
@@ -43,6 +46,10 @@ A porta AND, ou porta lógica E, é uma porta que produz 1 apenas se todas as en
 |     0     |     1     |   0   |
 |     0     |     0     |   0   |
 
+- **Representação**
+<br/>
+<img src="/assets/img/2024-09-27-portas-logicas/andGate.png" />
+
 ### Porta OR (Ou)
 A porta OR, ou porta lógica OU, é uma porta que produz 1 se pelo menos uma das entradas for 1.
 
@@ -56,6 +63,9 @@ A porta OR, ou porta lógica OU, é uma porta que produz 1 se pelo menos uma das
 |     0     |     1     |   1   |
 |     0     |     0     |   0   |
 
+- **Representação**
+<br/>
+<img src="/assets/img/2024-09-27-portas-logicas/orGate.png" />
 
 ### Porta XOR (Ou Diferente)
 A porta XOR, ou porta lógica OU Diferente, é uma porta que produz
@@ -72,6 +82,9 @@ portas nao and e uma porta ou.
 |     0     |     1     |   1   |
 |     0     |     0     |   0   |
 
+- **Representação**
+<br/>
+<img src="/assets/img/2024-09-27-portas-logicas/xorGate.png" />
 
 ### Porta NAND (Não E)
 A porta NAND é uma combinação da porta AND seguida de uma porta NOT. Ela produz 0 apenas se todas as entradas forem 1.
@@ -86,6 +99,10 @@ A porta NAND é uma combinação da porta AND seguida de uma porta NOT. Ela prod
 |     0     |     1     |   1   |
 |     0     |     0     |   1   |
 
+- **Representação**
+<br/>
+<img src="/assets/img/2024-09-27-portas-logicas/nandGate.png" />
+
 
 ### Porta NOR (Não Ou)
 A porta NOR é uma combinação da porta OR seguida de uma porta NOT. Ela produz 1 apenas se todas as entradas forem 0.
@@ -99,3 +116,7 @@ A porta NOR é uma combinação da porta OR seguida de uma porta NOT. Ela produz
 |     1     |     0     |   0   |
 |     0     |     1     |   0   |
 |     0     |     0     |   1   |
+
+- **Representação**
+<br/>
+<img src="/assets/img/2024-09-27-portas-logicas/norGate.png" />
