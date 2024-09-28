@@ -5,11 +5,11 @@ categories: [estudo, sistemas computacionais, porta lógica]
 tags: [estudo, sistemas computacionais, portas lógicas, somador, binário, subtrator]
 ---
 
-## Neste post, vamos aprender sobre as portas lógicas
-### O que são portas lógicas?
+# Neste post, vamos aprender sobre as portas lógicas
+## O que são portas lógicas?
 As portas lógicas são componentes essenciais da eletrônica digital, responsáveis por realizar operações básicas sobre valores binários. Sua principal função é processar sinais de entrada e gerar uma saída com base em regras lógicas específicas, sendo fundamentais para o funcionamento de circuitos e sistemas digitais.
 
-### Tipos de Portas Lógicas
+## Tipos de Portas Lógicas
 Existem várias portas lógicas, cada uma com uma função específica. Aqui estão algumas das mais usadas:
 - [**Porta NOT (Não)**](#porta-not-não)
 - [**Porta AND (E)**](#porta-and-e)
