@@ -120,3 +120,12 @@ A porta NOR é uma combinação da porta OR seguida de uma porta NOT. Ela produz
 - **Representação**
 <br/>
 <img alt='nor' src="/assets/img/2024-09-27-portas-logicas/norGate.png" />
+
+
+## Diagrama
+Caso queira um diagrama com todas as portas lógicas, baixe este arquivo que é um Canva do Obsidian.
+
+<a href="{{ '/assets/img/2024-09-27-portas-logicas/LogicalGates.canvas' |
+relative_url }}" download>
+  Baixar Canva
+</a>
