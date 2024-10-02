@@ -14,11 +14,6 @@ rede física que possui vários pontos se conectando.
 
 ## Tipos de Rede:
 
-- [Rede Doméstica](#rede-domestica)
-- [Rede SOHO](#rede-soho)
-- [Rede de Médio e Grande Porte](#rede-de-medio-e-grande-porte)
-- [Internet](#internet)
-
 ### Rede Doméstica
 As redes domésticas são pequenas redes que conectam diversos dispositivos, como computadores, smartphones e impressoras, à Internet. Elas geralmente utilizam roteadores para facilitar o acesso à rede, permitindo que os usuários compartilhem recursos e se comuniquem entre si.
 
