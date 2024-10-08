@@ -1,10 +1,19 @@
 ---
 title: Trabalhos da a3
 date: 2024-10-06 21:20:00 -03:00
+categories:
+  [
+    a3
+  ]
+tags: [a3]
 ---
 # ambientes computacionais:
 1. Circuito somador/subitrador
-2. Circuito no esp32
+2. Codigo sobre IOT e portas logicas
+  -**Dia**: 03/11/24
+  -**Pontos**:
+https://wokwi.com/
+
 3. seminario sobre segurança
   -**Dia**: 21/10/24
   -**Pontos**: 10
