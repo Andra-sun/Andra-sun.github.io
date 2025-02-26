@@ -31,7 +31,8 @@ Indica o contexto geral da tela e utiliza verbos no infinitivo ou imperativo, su
 
 <br />
 
-<img src="../assets/img/2025-02-26-ux-writing/Pasted image 20250226144245.png" width="400"/>
+<img src="../assets/img/2025-02-26-ux-writing/Pasted image 20250226144245.png"
+width="400" alt="acaoambigua"/>
 
 #### Título para ação única:
 Indica a única ação possível na tela e utiliza sintagma verbal no imperativo.
@@ -41,7 +42,8 @@ Indica a única ação possível na tela e utiliza sintagma verbal no imperativo
 
 <br />
 
-<img src="../assets/img/2025-02-26-ux-writing/Pasted image 20250226144708.png" width="400"/>
+<img src="../assets/img/2025-02-26-ux-writing/Pasted image 20250226144708.png"
+width="400" alt="acaounica"/>
 
 # Botões e Links
 A principal função dos botões e links no UX Writing é incentivar o usuário a interagir com a interface para realizar uma ação.
@@ -62,13 +64,13 @@ Exemplos:
 
 <br />
   
-<img src="../assets/img/2025-02-26-ux-writing/Pasted image 20250226150030.png" />
+<img src="../assets/img/2025-02-26-ux-writing/Pasted image 20250226150030.png" alt="executaracao"/>
 
 #### Botão de menu de lista:
 Normalmente conhecido tambem como nav, esses botões vem em forma de lista e deve ser escrito com substantivos ou sintagma verbal, um desses dois tipos é escolhido para manter o padrão.
   <br />
 
-<img src="../assets/img/2025-02-26-ux-writing/Pasted image 20250226150848.png" />
+<img src="../assets/img/2025-02-26-ux-writing/Pasted image 20250226150848.png" alt="menulista"/>
 
 #### Botão combinando com o título:
 Nesse caso, em uma tela vai haver um titulo e abaixo dele um botao re rescrevedo
