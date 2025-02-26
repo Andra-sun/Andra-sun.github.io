@@ -51,8 +51,8 @@ A principal função dos botões e links no UX Writing é incentivar o usuário 
 ## Links
 A função do link deve estar indicada imediatamente antes dele ou nele próprio.
 Exemplos:
-- [saiba mais]()
-- Veja mais em: [https://exemplo.com]()
+- [saiba mais](/)
+- Veja mais em: [https://exemplo.com](/)
 
 ## Botões
 #### Para executar uma ação:
