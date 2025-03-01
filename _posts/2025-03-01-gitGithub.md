@@ -1,7 +1,7 @@
 ---
 title: Git e GitHub
 date: 2025-03-01 14:40:00 -03:00
-category: [dica]
+category: [dicas, pc]
 tag: [git, gitHub, dicas, pc]
 image: "https://tm.ibxk.com.br/2023/01/18/18110237980090.jpg"
 ---
@@ -96,7 +96,7 @@ Os comandos git se iniciam com `git` e logo em seguida o que vai ser feito. Conf
 
 # Exemplo
 
-## Exemplo, Part 1
+## Exemplo, Parte 1
 Agora irei mostrar para vocês um exemplo de como criar um repositório no GitHub e começar um projeto nele.
 ### No GitHub
 
