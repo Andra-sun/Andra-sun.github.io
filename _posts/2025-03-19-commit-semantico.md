@@ -153,8 +153,10 @@ Commits do tipo perf servem para identificar quaisquer alterações de código q
         </tr>
     </thead>
     <tbody>
-        <td>Performance</td>
-        <td>⚡ <code>:zap:</code></td>
+        <tr>
+            <td>Performance</td>
+            <td>⚡ <code>:zap:</code></td>
+        </tr>
     </tbody>
 </table>
 
@@ -196,8 +198,10 @@ ou melhorias de performance devido a um code review.
         </tr>
     </thead>
     <tbody>
-        <td>Refatoração</td>
-        <td>♻️ <code>:recycle:</code></td>
+        <tr>
+            <td>Refatoração</td>
+            <td>♻️ <code>:recycle:</code></td>
+        </tr>
     </tbody>
 </table>
 
