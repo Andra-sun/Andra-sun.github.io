@@ -6,6 +6,23 @@ category: [dicas, git]
 date: 2025-03-19 17:44:00 -03:00
 ---
 
+## Como usar  
+Após adicionar o arquivo que você editou, na hora de commitar, utilize a seguinte estrutura:  
+
+- O tipo do commit:  
+  Ex.: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `build`, `ci`, `chore`, `perf`, `raw`, `cleanup`, `remove`  
+- Abra parênteses e escreva o nome do arquivo editado e, caso queira, um emoji.  
+- Ao fechar o parênteses, coloque `:` e, por fim, escreva a mensagem do commit de forma clara.  
+
+### Regras:  
+- Não use letra maiúscula no início das palavras.  
+
+### Exemplo:  
+
+```
+fix(arquivo :bug:) bug no arquivo corrigido
+```
+
 ## feat
 
 Commits do tipo feat indicam que seu trecho de código está incluindo um **novo recurso** (se relaciona com o MINOR do
@@ -19,10 +36,6 @@ versionamento semântico).
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Acessibilidade</td>
-            <td>✨ <code>:sparkles:</code></td>
-        </tr>
         <tr>
             <td>Estilização de interface</td>
             <td>💄 <code>:lipstick:</code></td>
