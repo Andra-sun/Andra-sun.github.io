@@ -10,12 +10,11 @@ date: 2025-03-19 17:44:00 -03:00
 Após adicionar o arquivo que você editou, na hora de commitar, utilize a seguinte estrutura:  
 
 - O tipo do commit:  
-  Ex.: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `build`, `ci`, `chore`, `perf`, `raw`, `cleanup`, `remove`  
+  Ex.: `feat`, `fix`, `docs` ...  
 - Abra parênteses e escreva o nome do arquivo editado e, caso queira, um emoji.  
 - Ao fechar o parênteses, coloque `:` e, por fim, escreva a mensagem do commit de forma clara.  
 
-### Regras:  
-- Não use letra maiúscula no início das palavras.  
+> **Nota:** Não use letra maiúscula no início das palavras.  
 
 ### Exemplo:  
 
