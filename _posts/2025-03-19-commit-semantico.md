@@ -14,7 +14,8 @@ Após adicionar o arquivo que você editou, na hora de commitar, utilize a segui
 - Abra parênteses e escreva o nome do arquivo editado e, caso queira, um emoji.  
 - Ao fechar o parênteses, coloque `:` e, por fim, escreva a mensagem do commit de forma clara.  
 
-> **Nota:** Não use letra maiúscula no início das palavras.  
+> Não use letra maiúscula no início das palavras. 
+{: .prompt-danger  } 
 
 ### Exemplo:  
 
@@ -83,10 +84,6 @@ Commits do tipo docs indicam que houveram **mudanças na documentação**, como 
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Performance</td>
-            <td>⚡ <code>:zap:</code></td>
-        </tr>
         <tr>
             <td>Comentários</td>
             <td>💡 <code>:bulb:</code></td>
@@ -186,10 +183,6 @@ spaces, lint... (Não inclui alterações em código).
     </thead>
     <tbody>
         <tr>
-            <td>Performance</td>
-            <td>⚡ <code>:zap:</code></td>
-        </tr>
-        <tr>
             <td>Alterações de revisão de código</td>
             <td>👌 <code>:ok_hand:</code></td>
         </tr>
@@ -250,10 +243,6 @@ Commits do tipo ci indicam mudanças relacionadas a **integração contínua** (
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Performance</td>
-            <td>⚡ <code>:zap:</code></td>
-        </tr>
         <tr>
             <td>Infraestrutura</td>
             <td>🧱 <code>:bricks:</code></td>
