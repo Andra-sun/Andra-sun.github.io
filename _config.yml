@@ -127,7 +127,7 @@ comments:
     repo_id: Andra-sun/Andra-sun.github.io
     category: General
     category_id: DIC_kwDOM4Ewi84CoYlV
-    mapping: title # optional, default to 'pathname'
+    mapping: pathname # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
     lang: pt # optional, default to the value of `site.lang`
