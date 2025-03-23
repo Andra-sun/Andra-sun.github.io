@@ -23,7 +23,7 @@ description:
   eu ja estudei no mundo da tecnologia.
 
 url: "https://Andra-sun.github.io"
-favicon: assets/img/android-chrome-192x192.png
+favicon: assets/img/favicons/web-app-manifest-512x512.png
 
 github:
   username: Andra-sun
@@ -102,11 +102,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn-icons-png.freepik.com/512/3127/3127600.png
+avatar: assets/img/favicons/web-app-manifest-512x512.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: https://cdn-icons-png.freepik.com/512/3127/3127600.png
+social_preview_image: assets/img/favicons/web-app-manifest-512x512.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
