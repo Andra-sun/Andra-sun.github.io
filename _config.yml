@@ -125,8 +125,8 @@ comments:
   giscus:
     repo: https://giscus.app/client.js # <gh-username>/<repo>
     repo_id: Andra-sun/Andra-sun.github.io
-    category: Announcements
-    category_id: DIC_kwDOM4Ewi84CoYlU
+    category: General
+    category_id: DIC_kwDOM4Ewi84CoYlV
     mapping: title # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
