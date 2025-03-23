@@ -123,14 +123,14 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: https://giscus.app/client.js # <gh-username>/<repo>
-    repo_id: R_kgDOM4Ewiw
-    category: General
-    category_id: DIC_kwDOM4Ewi84CoYlV
-    mapping: pathname # optional, default to 'pathname'
+    repo: "Andra-sun/Andra-sun.github.io" # <gh-username>/<repo>
+    repo_id: "R_kgDOM4Ewiw"
+    category: "General"
+    category_id: "DIC_kwDOM4Ewi84CoYlU"
+    mapping: "pathname" # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
-    input_position: bottom # optional, default to 'bottom'
-    lang: pt # optional, default to the value of `site.lang`
+    input_position: "bottom" # optional, default to 'bottom'
+    lang: "pt" # optional, default to the value of `site.lang`
     reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
