@@ -124,7 +124,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: https://giscus.app/client.js # <gh-username>/<repo>
-    repo_id: Andra-sun/Andra-sun.github.io
+    repo_id: R_kgDOM4Ewiw
     category: General
     category_id: DIC_kwDOM4Ewi84CoYlV
     mapping: pathname # optional, default to 'pathname'
