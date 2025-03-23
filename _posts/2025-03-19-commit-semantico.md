@@ -14,7 +14,7 @@ Após adicionar o arquivo que você editou, na hora de commitar, utilize a segui
 - Abra parênteses e escreva o nome do arquivo editado e, caso queira, um emoji.  
 - Ao fechar o parênteses, coloque `:` e, por fim, escreva a mensagem do commit de forma clara.  
 
-> Não use letra maiúscula no início das palavras. 
+> Não use letra maiúscula em lugar nenhum. 
 {: .prompt-danger  } 
 
 ### Exemplo:  
