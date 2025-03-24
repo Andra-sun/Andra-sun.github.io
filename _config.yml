@@ -125,7 +125,7 @@ comments:
   giscus:
     repo: "Andra-sun/Andra-sun.github.io" # <gh-username>/<repo>
     repo_id: "R_kgDOM4Ewiw"
-    category: "General"
+    category: "Announcements"
     category_id: "DIC_kwDOM4Ewi84CoYlU"
     mapping: "pathname" # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
