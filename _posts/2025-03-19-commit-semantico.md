@@ -4,6 +4,7 @@ description: Lista e descrição das tag para o commit semantico
 tag: [dicas, git]
 category: [dicas, git]
 date: 2025-03-19 17:44:00 -03:00
+image: /assets/img/nssc.jpg
 ---
 
 ## Como usar  
