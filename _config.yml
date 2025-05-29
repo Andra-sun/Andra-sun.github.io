@@ -81,6 +81,8 @@ analytics:
 pageviews:
   provider: # now only supports 'goatcounter'
 
+google_adsense_id: ca-pub-9561843426475711
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
