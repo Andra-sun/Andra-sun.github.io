@@ -82,6 +82,8 @@ pageviews:
   provider: # now only supports 'goatcounter'
 
 google_adsense_id: ca-pub-9561843426475711
+include:
+  - ads.txt
 
 # Prefer color scheme setting.
 #
