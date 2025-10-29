@@ -28,6 +28,11 @@ A visão básica da qualidade segue os três seguintes pontos:
 3. A **Organização** deve cumprir prazos e se atentar a evitar gastos e garantir boa produtividade 
 Porem além desses temos o foco do cliente, melhoria de processo, lado humano da qualidade, e métrica, modelos, medições e análise. Mas em resumo todos esses são apenas nomes específicos para o generalismo dos três prontos acima.
 
+<br />
+
+ele pode ser descrito também de outra maneira:
+- **Verificação -** Estamos construindo isso certo?
+- **Validação -** Estamos construindo o trem certo ou é outra coisa completamente diferente?
 
 #### Classificações
 ##### CMMI - Capability Maturity Model Integration
@@ -59,3 +64,11 @@ Testes são feitos para identificar erros, defeitos e falhas. Podemos encapsular
 2. **Erro** é um código defeituoso feito por um dev.
 3. **Falha** é quando o problema não deixa o programa funcionar.
 
+
+## Fracasso
+motivos que podem causar o fracasso de um software seriam os seguintes:
+1. O escopo mal feito pode fazer o analista não conseguir entender nada do que é pra fazer, o usuário ficar perdido e falhar completamente a comunicação entre os dois. e isso piora se o usuário não se envolver pra tentar deixar mais claro as coisas.
+2. Não analisarem os possíveis riscos que pode ter que atrasaria a entrega e/ou deixaria mais caro.
+3. Pessoas que não sabem trabalhar em equipe que atrapalha mais do que ajuda.
+4. Liderança meia boca que não faz nem o mínimo de acompanhar como o projeto vai indo.
+5. Falta de teste ou ter feito eles de maneira porca
