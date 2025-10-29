@@ -5,7 +5,7 @@ categories: [estudo, teste, gestão, qualidade]
 tags: [estudo, engenharia, teste, qualidade, getão]
 ---
 
-## qualidade:
+## Qualidade:
 Entrega de produtos/serviço com perfeito funcionamento e atendendo os pedidos do cliente
 - Superar expectativas
 - Produtos sem defeitos
@@ -95,3 +95,43 @@ motivos que podem causar o fracasso de um software seriam os seguintes:
 ## Modelos de qualidade
 - Ciclo PDCA: plan, do, check, act
 - Ciclo IDEAL: inicio, diagnostico, estabelecimento, ação, ligação
+
+## Teste shippuden 
+voltando a falar de teste só que agora com mais coisa.
+### Objetivos do teste
+Ele deve ser feito muitas vezes em toda a vida do software pq sempre pode da b.o. Dai você sabendo o que é o esperado vai analisando se realmente ta chegando no objetivo.
+
+### Caixa preta (black box)
+Esse é um tipo de teste focado em verificar se o sistema responde corretamente as entradas do usuário, exibindo os dados de forma adequada e processando formulários certinho.
+### Caixa branca (white box)
+Esse é um tipo de teste focado em verificar o funcionamento interno do sistema, analisando código fonte, estrutura de decisão e fluxo de execução. basicamente garantir que a logica está correta.
+`sequencia, if, while, case`
+
+# Estratégia de teste
+### Teste de unidade
+- Verificação da menor unidade 
+- baseado na caixa branca
+- verificar se tem erro antes de integrar 
+- pode acontecer muitos ao mesmo tempo
+### Teste de integração
+- Verifica a comunicação de diferentes partes
+- tenta garantir a amizade de todos os componentes
+- se faz depois do unitário e antes do de sistema
+- feito pra validar requisitos e verificar a comunicação
+### Teste de validação
+- Verificar se os dois últimos foi feito certo
+- Ter certeza se os trem esta atendendo as expectativas do usuário
+- Olha a parte de segurança e desempenho
+- garante que o produto esteja pronto pra lançar
+- da feedback pra ter certeza
+- feito pra garantir que o usuário fique feliz
+### Teste de sistema
+esse é um monte de teste diferente, mas é principalmente feito olhando no ponto de vista do usuário.
+#### Teste de recuperação
+ele força a falha de todo jeito e verifica se a recuperação vai funcionar
+#### Teste de segurança
+verifica se ta protegido de invasão
+#### Teste de estresse
+Faz um bilhão de coisa ao mesmo tempo pra ve se não vai cair
+#### Teste de desempenho
+testa o desempenho...
