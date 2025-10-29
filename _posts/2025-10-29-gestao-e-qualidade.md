@@ -135,3 +135,42 @@ verifica se ta protegido de invasão
 Faz um bilhão de coisa ao mesmo tempo pra ve se não vai cair
 #### Teste de desempenho
 testa o desempenho...
+
+## Teste, o império contra ataca
+mais do mesmo só que diferente
+
+### Padrão/pattern AAA
+> eu acho que isso aqui faz parte do teste unitário, o slide é muito confuso pra ter certeza.  chega ta escrito em ingles
+#### Arrange
+configura o cenário: Variaveis, objetos, mocks, dependencias...
+#### Act
+Executa a função/comportamento do que está sendo testado
+#### Assert
+confere se funcionou
+
+### Teste de Dublês
+literalmente dublês. dai ele garante que que você consiga escrever em algo que tenha dependencia.
+
+#### Mock
+Simular a interface ou classes, assim da pra isolar o problema
+#### Dummies
+Dados falso pra deixar o teste mais fácil
+#### Fake
+Objetos reais que não da pra usar
+#### Spies
+é um agente russo infiltrado que olha se a função foi chamada, quantas vezes foi, oq precisou e assim vai
+#### Stubs
+Igual o spies porem ele consegue substituir coisa e simular execução 
+
+
+### Teste de Regressão
+- Verifica se novas mudanças não fizeram voltar erros antigos
+
+### Teste de Fumaça
+- verifica se o software liga sem falhas criticas
+- garante que as funcionalidades básicas estão funcionando antes dos mais avançados
+- basicamente garante que o mínimo esta funcionando #FelizNoSimples
+
+### Teste de aceitação
+- coloca pra um monte de random pra testar
+- verifica se fez o check em tudo que precisava
