@@ -77,8 +77,10 @@ No contexto atual temos dois tipos de teste:
 	Faz uso do código do programa
 2. Caixa preta
 	Não faz uso do código do programa(foco na interface)
+
 ### O que o teste combate
 Testes são feitos para identificar erros, defeitos e falhas. Podemos encapsular eles os chamando de **Bug**. `Erro humano produz defeito que gera falha.` .
+
 1. **Defeito** é um comportamento inesperado que está em uma parte do produto e se refere a algo mal feito no código.
 2. **Erro** é um código defeituoso feito por um dev.
 3. **Falha** é quando o problema não deixa o programa funcionar.
