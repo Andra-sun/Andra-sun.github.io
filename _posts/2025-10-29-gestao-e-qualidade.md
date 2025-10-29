@@ -45,10 +45,10 @@ ele tem cinco níveis:
 4. Gerenciado quantitativamente:
 	os processos agora são controlados usando estatísticas e coisas assim
 5. Otimizado:
-	aqui ja é frescura
+	 os processos são continuamente melhorados com base em análises feitas pela equipe.
 
 ##### MPS.BR
-aqui tem 7 níveis mas não vale nem apena citar, só existe no brasil e ninguém é tão nacionalista assim
+aqui tem 7 níveis. Cada nível representa um grau de maturidade na gestão de processos de software, com as empresas progredindo gradualmente de um nível para outro ao implementar os processos e melhorias exigidos em cada etapa
 
 ##### ISO 9001:2008
 Garante a rastreabilidade do processo e fornece meios apropriados de ação corretiva. Além disso padroniza todos os processos que afetam o produto e o cliente
