@@ -4,6 +4,7 @@ date: 2025-10-29 09:03:00 -03:00
 categories: [estudo, teste, gestão, qualidade]
 tags: [estudo, engenharia, teste, qualidade, getão]
 ---
+
 ## qualidade:
 Entrega de produtos/serviço com perfeito funcionamento e atendendo os pedidos do cliente
 - Superar expectativas
@@ -28,8 +29,6 @@ A visão básica da qualidade segue os três seguintes pontos:
 3. A **Organização** deve cumprir prazos e se atentar a evitar gastos e garantir boa produtividade 
 Porem além desses temos o foco do cliente, melhoria de processo, lado humano da qualidade, e métrica, modelos, medições e análise. Mas em resumo todos esses são apenas nomes específicos para o generalismo dos três prontos acima.
 
-<br />
-
 ele pode ser descrito também de outra maneira:
 - **Verificação -** Estamos construindo isso certo?
 - **Validação -** Estamos construindo o trem certo ou é outra coisa completamente diferente?
@@ -50,6 +49,26 @@ ele tem cinco níveis:
 
 ##### MPS.BR
 aqui tem 7 níveis mas não vale nem apena citar, só existe no brasil e ninguém é tão nacionalista assim
+
+##### ISO 9001:2008
+Garante a rastreabilidade do processo e fornece meios apropriados de ação corretiva. Além disso padroniza todos os processos que afetam o produto e o cliente
+
+##### ISO/IEC 9126
+norma que propõe atributos de qualidade em 6 partes:
+1. funcionalidade
+2. confiabilidade
+3. usabilidade
+4. eficiência
+5. manutenibilidade
+6. portabilidade 
+
+##### ISO/IEC 12207
+Estabelece uma estrutura para o ciclo de vida do software, visando a ajudar na compreensão de tudo. Ele é dividido em fundamentais, apoio e organização 
+
+##### ISO/IEC 15504
+parecido com o cmmi
+
+
 ## Teste 
 para garantir a qualidade é fundamental fazer testes. Ele nada mais é que um conjunto de atividades feitas para identificar defeitos e falhas
 ### teste de software
@@ -58,7 +77,7 @@ No contexto atual temos dois tipos de teste:
 	Faz uso do código do programa
 2. Caixa preta
 	Não faz uso do código do programa(foco na interface)
-#### O que o teste combate
+### O que o teste combate
 Testes são feitos para identificar erros, defeitos e falhas. Podemos encapsular eles os chamando de **Bug**. `Erro humano produz defeito que gera falha.` .
 1. **Defeito** é um comportamento inesperado que está em uma parte do produto e se refere a algo mal feito no código.
 2. **Erro** é um código defeituoso feito por um dev.
@@ -72,3 +91,7 @@ motivos que podem causar o fracasso de um software seriam os seguintes:
 3. Pessoas que não sabem trabalhar em equipe que atrapalha mais do que ajuda.
 4. Liderança meia boca que não faz nem o mínimo de acompanhar como o projeto vai indo.
 5. Falta de teste ou ter feito eles de maneira porca
+
+## Modelos de qualidade
+- Ciclo PDCA: plan, do, check, act
+- Ciclo IDEAL: inicio, diagnostico, estabelecimento, ação, ligação
