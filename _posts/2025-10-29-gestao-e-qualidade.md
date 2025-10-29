@@ -26,7 +26,8 @@ este atende a determinadas condições, sendo essas:
 A visão básica da qualidade segue os três seguintes pontos:
 1. O **usuário** deve ter facilidade no uso e poder confiar 100% no resultado .
 2. O **desenvolvedor** deve poder fazer manutenções de maneira fácil e receber claros requisitos do que é preciso ser feito.
-3. A **Organização** deve cumprir prazos e se atentar a evitar gastos e garantir boa produtividade 
+3. A **Organização** deve cumprir prazos e se atentar a evitar gastos e garantir boa produtividade
+   
 Porem além desses temos o foco do cliente, melhoria de processo, lado humano da qualidade, e métrica, modelos, medições e análise. Mas em resumo todos esses são apenas nomes específicos para o generalismo dos três prontos acima.
 
 ele pode ser descrito também de outra maneira:
