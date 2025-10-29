@@ -26,9 +26,10 @@ este atende a determinadas condições, sendo essas:
 A visão básica da qualidade segue os três seguintes pontos:
 1. O **usuário** deve ter facilidade no uso e poder confiar 100% no resultado .
 2. O **desenvolvedor** deve poder fazer manutenções de maneira fácil e receber claros requisitos do que é preciso ser feito.
-3. A **Organização** deve cumprir prazos e se atentar a evitar gastos e garantir boa produtividade
-   
+3. A **Organização** deve cumprir prazos e se atentar a evitar gastos e garantir boa produtividade 
+
 Porem além desses temos o foco do cliente, melhoria de processo, lado humano da qualidade, e métrica, modelos, medições e análise. Mas em resumo todos esses são apenas nomes específicos para o generalismo dos três prontos acima.
+
 ele pode ser descrito também de outra maneira:
 - **Verificação -** Estamos construindo isso certo?
 - **Validação -** Estamos construindo o trem certo ou é outra coisa completamente diferente?
@@ -139,16 +140,93 @@ testa o desempenho...
 ## Teste, o império contra ataca
 mais do mesmo só que diferente
 
-### Padrão/pattern AAA
-> eu acho que isso aqui faz parte do teste unitário, o slide é muito confuso pra ter certeza.  chega ta escrito em ingles
-{: .prompt-danger  }
+### Padrão / Pattern AAA
+
+>  **Error:** eu acho que isso aqui faz parte do teste unitário, o slide é muito confuso pra ter certeza. chega ta escrito em ingles
 
 #### Arrange
 configura o cenário: Variaveis, objetos, mocks, dependencias...
+
 #### Act
 Executa a função/comportamento do que está sendo testado
+
 #### Assert
 confere se funcionou
+
+
+### Teste de Dublês
+literalmente dublês. dai ele garante que que você consiga escrever em algo que tenha dependencia.
+
+#### Mock
+Simular a interface ou classes, assim da pra isolar o problema
+#### Dummies
+Dados falso pra deixar o teste mais fácil
+#### Fake
+Objetos reais que não da pra usar
+#### Spies
+é um agente russo infiltrado que olha se a função foi chamada, quantas vezes foi, oq precisou e assim vai
+#### Stubs
+Igual o spies porem ele consegue substituir coisa e simular execução 
+
+
+### Teste de Regressão
+- Verifica se novas mudanças não fizeram voltar erros antigos
+
+### Teste de Fumaça
+- verifica se o software liga sem falhas criticas
+- garante que as funcionalidades básicas estão funcionando antes dos mais avançados
+- basicamente garante que o mínimo esta funcionando #FelizNoSimples
+
+### Teste de aceitação
+- coloca pra um monte de random pra testar
+- verifica se fez o check em tudo que precisava
+
+
+
+
+## Todos os diferentes tipos de teste
+### Navegação
+1. [Teste de unidade](#teste-de-unidade-1)
+2. [Teste de integração](#teste-de-integracao)
+3. [Teste de validação](#teste-de-validacao)
+4. [Teste de sistema](#teste-de-sistema)
+   5. [Teste de recuperação](#teste-de-recuperacao)
+   6. [Teste de segurança](#teste-de-seguranca)
+   7. [Teste de estresse](#teste-de-estresse)
+   8. [Teste de desempenho](#teste-de-desempenho)
+9. [Teste de Dublês](#teste-de-dubles)
+10. [Teste de Regressão](#teste-de-regressao)
+11. [Teste de Fumaça](#teste-de-fumaca)
+12. [Teste de aceitação](#teste-de-aceitacao)
+
+# Testes
+### Teste de unidade
+- Verificação da menor unidade 
+- baseado na caixa branca
+- verificar se tem erro antes de integrar 
+- pode acontecer muitos ao mesmo tempo
+### Teste de integração
+- Verifica a comunicação de diferentes partes
+- tenta garantir a amizade de todos os componentes
+- se faz depois do unitário e antes do de sistema
+- feito pra validar requisitos e verificar a comunicação
+### Teste de validação
+- Verificar se os dois últimos foi feito certo
+- Ter certeza se os trem esta atendendo as expectativas do usuário
+- Olha a parte de segurança e desempenho
+- garante que o produto esteja pronto pra lançar
+- da feedback pra ter certeza
+- feito pra garantir que o usuário fique feliz
+### Teste de sistema
+esse é um monte de teste diferente, mas é principalmente feito olhando no ponto de vista do usuário.
+#### Teste de recuperação
+ele força a falha de todo jeito e verifica se a recuperação vai funcionar
+#### Teste de segurança
+verifica se ta protegido de invasão
+#### Teste de estresse
+Faz um bilhão de coisa ao mesmo tempo pra ve se não vai cair
+#### Teste de desempenho
+testa o desempenho...
 
 ### Teste de Dublês
 literalmente dublês. dai ele garante que que você consiga escrever em algo que tenha dependencia.
