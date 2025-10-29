@@ -186,18 +186,18 @@ Igual o spies porem ele consegue substituir coisa e simular execução
 
 ## Todos os diferentes tipos de teste
 ### Navegação
-1. [Teste de unidade](#teste-de-unidade-1)
-2. [Teste de integração](#teste-de-integracao)
-3. [Teste de validação](#teste-de-validacao)
-4. [Teste de sistema](#teste-de-sistema)
-   5. [Teste de recuperação](#teste-de-recuperacao)
-   6. [Teste de segurança](#teste-de-seguranca)
-   7. [Teste de estresse](#teste-de-estresse)
-   8. [Teste de desempenho](#teste-de-desempenho)
-9. [Teste de Dublês](#teste-de-dubles)
-10. [Teste de Regressão](#teste-de-regressao)
-11. [Teste de Fumaça](#teste-de-fumaca)
-12. [Teste de aceitação](#teste-de-aceitacao)
+1. [Teste de unidade](#teste-de-unidade-2)
+2. [Teste de integração](#teste-de-integracao-2)
+3. [Teste de validação](#teste-de-validacao-2)
+4. [Teste de sistema](#teste-de-sistema-2)
+   5. [Teste de recuperação](#teste-de-recuperacao-2)
+   6. [Teste de segurança](#teste-de-seguranca-2)
+   7. [Teste de estresse](#teste-de-estresse-2)
+   8. [Teste de desempenho](#teste-de-desempenho-2)
+9. [Teste de Dublês](#teste-de-dubles-2)
+10. [Teste de Regressão](#teste-de-regressao-2)
+11. [Teste de Fumaça](#teste-de-fumaca-2)
+12. [Teste de aceitação](#teste-de-aceitacao-2)
 
 # Testes
 ### Teste de unidade
