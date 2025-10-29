@@ -29,7 +29,6 @@ A visão básica da qualidade segue os três seguintes pontos:
 3. A **Organização** deve cumprir prazos e se atentar a evitar gastos e garantir boa produtividade
    
 Porem além desses temos o foco do cliente, melhoria de processo, lado humano da qualidade, e métrica, modelos, medições e análise. Mas em resumo todos esses são apenas nomes específicos para o generalismo dos três prontos acima.
-
 ele pode ser descrito também de outra maneira:
 - **Verificação -** Estamos construindo isso certo?
 - **Validação -** Estamos construindo o trem certo ou é outra coisa completamente diferente?
