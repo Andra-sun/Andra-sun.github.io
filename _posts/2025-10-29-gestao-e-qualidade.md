@@ -45,10 +45,10 @@ ele tem cinco níveis:
 4. Gerenciado quantitativamente:
 	os processos agora são controlados usando estatísticas e coisas assim
 5. Otimizado:
-	aqui ja é frescura
+	 os processos são continuamente melhorados com base em análises feitas pela equipe.
 
 ##### MPS.BR
-aqui tem 7 níveis mas não vale nem apena citar, só existe no brasil e ninguém é tão nacionalista assim
+aqui tem 7 níveis. Cada nível representa um grau de maturidade na gestão de processos de software, com as empresas progredindo gradualmente de um nível para outro ao implementar os processos e melhorias exigidos em cada etapa
 
 ##### ISO 9001:2008
 Garante a rastreabilidade do processo e fornece meios apropriados de ação corretiva. Além disso padroniza todos os processos que afetam o produto e o cliente
@@ -77,8 +77,10 @@ No contexto atual temos dois tipos de teste:
 	Faz uso do código do programa
 2. Caixa preta
 	Não faz uso do código do programa(foco na interface)
+
 ### O que o teste combate
 Testes são feitos para identificar erros, defeitos e falhas. Podemos encapsular eles os chamando de **Bug**. `Erro humano produz defeito que gera falha.` .
+
 1. **Defeito** é um comportamento inesperado que está em uma parte do produto e se refere a algo mal feito no código.
 2. **Erro** é um código defeituoso feito por um dev.
 3. **Falha** é quando o problema não deixa o programa funcionar.
