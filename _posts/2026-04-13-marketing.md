@@ -214,3 +214,97 @@ Deve ser:
 - **Sustentável** (não pode ser falso)
 
 Essencial para construir **confiança no longo prazo**.
+
+---
+
+# Terceira unidade
+
+## Jornada de compra
+A jornada de compra é o processo que o consumidor percorre até finalizar uma compra. Entender esse caminho é essencial para atrair e conquistar clientes.  
+Ela não é linear nem previsível.
+
+### Fatores sociais
+A cultura (valores adquiridos desde a infância), a subcultura (manifestações de identificação e socialização específicas) e a classe social do consumidor interferem diretamente na decisão de compra.  
+
+Além disso, existem os grupos de referência, como família, papéis sociais e status, que conferem certo nível de credibilidade ao indivíduo e muitas vezes são decisivos no momento da escolha.
+
+### Fatores pessoais
+Fatores como idade, ocupação, estilo de vida, momento econômico e personalidade influenciam quando um indivíduo precisa tomar uma decisão de compra.  
+
+O ritmo em que a vida de uma pessoa evolui molda suas relações com produtos e marcas.
+
+### Fatores psicológicos
+São eles: motivação, percepção, aprendizagem, crenças e atitudes.  
+Esses fatores influenciam diretamente o comportamento do consumidor.
+
+### Conclusão
+Em resumo, o modo como os consumidores tomam decisões de compra é influenciado por fatores como cultura, classe social, família, estilo de vida e experiências anteriores.  
+
+Além disso, fatores internos como motivação, percepção, aprendizagem e memória atuam de forma decisiva nesse processo.
+
+### Etapas
+- Reconhecimento da necessidade  
+- Pesquisa de informações  
+- Análise de alternativas  
+- Pós-compra  
+
+---
+
+## Funil de vendas
+O funil de vendas é uma representação visual das etapas da jornada de compra.  
+A metáfora do funil expressa a ideia de que, à medida que avançamos pelas etapas, ocorre uma filtragem dos potenciais clientes.
+
+De forma geral, o funil possui quatro etapas:
+- Conscientização  
+- Interesse  
+- Avaliação  
+- Compra  
+
+![funil](https://i0.wp.com/www.phdvirtual.com.br/wp-content/uploads/2021/06/funil-de-marketing.png?resize=1024%2C532&ssl=1)
+
+Investir em um funil bem estruturado resulta na conquista de novos clientes e no fortalecimento dos já existentes.  
+
+A geração de leads pode acontecer por meio de campanhas publicitárias, e-mail marketing e eventos. Porém, métodos como descontos exagerados tendem a atrair leads de baixa qualidade, com pouco valor a longo prazo.  
+
+O funil ajuda a visualizar a jornada desses leads, desde o primeiro contato, além de auxiliar na criação de relacionamento e fidelização.
+
+### Estratégias
+Cada etapa do funil possui estratégias específicas:
+
+#### Topo
+**Objetivo:** atrair e gerar interesse  
+**Foco:** conteúdos informativos  
+
+Nessa fase, são produzidos posts, vídeos e outros conteúdos que ajudam o público a tirar dúvidas iniciais.  
+SEO e anúncios também são importantes para aumentar a visibilidade da marca.  
+Interações nas redes sociais contribuem para ampliar o alcance e atrair novos consumidores.
+
+#### Meio
+**Objetivo:** qualificar os leads  
+**Foco:** e-mail marketing e newsletters  
+
+Aqui, o objetivo é fornecer informações relevantes e preparar o lead para a tomada de decisão, além de captar dados e aprofundar o relacionamento.
+
+#### Fundo
+**Objetivo:** conversão  
+**Foco:** decisão de compra  
+
+Reviews e avaliações ajudam a dar o empurrão final para a compra.  
+Ofertas também podem ajudar, mas devem ser usadas com cautela para não atrair leads de baixa qualidade.
+
+---
+
+## UX
+UX (User Experience) está diretamente ligado à satisfação, eficiência e à percepção de valor que o usuário tem em cada ponto de contato com a marca.  
+
+Está relacionado ao design de interface e à forma como o usuário interage com produtos e serviços.  
+Seu objetivo é entregar valor real por meio de usabilidade, acessibilidade, empatia e clareza.
+
+---
+
+## Inbound Marketing
+O Inbound Marketing é uma estratégia baseada na atração e no engajamento do público por meio de conteúdos relevantes.  
+
+A personalização permite criar conexões mais reais, começando desde o início da jornada até o pós-venda, gerando confiança e relevância.  
+
+Seu objetivo é gerar oportunidades de negócio, aumentar as vendas e fidelizar clientes, de forma sutil e natural.
