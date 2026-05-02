@@ -322,6 +322,125 @@ Por isso, a escolha de um influenciador deve ser bem analisada, levando em conta
 ### Influência digital
 A influência digital é a capacidade de uma pessoa ou marca influenciar públicos nos meios digitais, geralmente por meio de redes sociais.  
 
+> **Nota:** normalmente dizem que a balança é favorável a quem tenha credibilidade e empatia, porém sabemos muito bem que isso nem sempre é o principal fator.
+
+A **horizontalidade da autoridade** é um conceito onde pertencimento e afinidade possuem mais peso do que status tradicional.  
+
+Hoje, a influência não está mais concentrada apenas em grandes mídias, mas em qualquer pessoa que consiga alcançar e engajar públicos na internet.  
+
+Antes, isso era dominado por figuras da TV, rádio e cinema, com comunicação unilateral.  
+Atualmente, criadores de conteúdo possuem contato direto com o público, escuta ativa e métricas detalhadas sobre sua audiência.
+
+Um influenciador pode ser definido como um consumidor comum com voz relevante, capaz de gerar tendências e impactar pessoas.
+
+#### Tipos de influencer
+![tipos](https://hotmart.com/media/2022/07/600x400-PT-Os-6-tipos-de-influenciadores-digitais.webp)
+
+> **Nota:** desconsidere o “everyday”, Campbell e Farrel descrevem apenas 5 tipos.
+
+##### Celebridade
+Já possui fama fora das redes sociais.
+- Artistas  
+- Atletas  
+
+##### Mega
+Possuem muitos seguidores e são conhecidos principalmente pelas redes sociais, geralmente em nichos específicos.
+
+##### Macro
+Têm menos seguidores que os mega influencers, mas contam com público engajado e alcance intermediário.
+
+##### Micro
+São muito nichados em temas ou localização.  
+Possuem proximidade com a audiência e geram mais confiança.
+
+##### Nano
+Possuem baixo alcance, mas alta proximidade com o público.  
+Passam uma imagem mais próxima e cotidiana.
+
+#### Classificações
+##### Especialistas
+Profissionais como médicos, advogados e biólogos.  
+Possuem alta credibilidade e são vistos como fontes confiáveis.
+
+##### Entretenimento
+Comediantes, músicos e gamers.  
+Criam conexão emocional e oferecem descontração.
+
+##### Lifestyle
+Promovem estilos de vida relacionados à moda, viagens, dieta, maternidade e outros temas.  
+Inspiram o público.
+
+##### Ativista
+Falam sobre questões sociais, políticas e identitárias.  
+Promovem conscientização e mobilizam mudanças.
+
+---
+
+## Engajamento
+Curtidas, comentários, compartilhamentos e salvamentos são formas de medir engajamento.  
+A conexão com o público também é um fator importante.
+
+Conteúdos com muito engajamento tendem a ser mais distribuídos pelas plataformas.  
+Para gerar engajamento, é necessário entender o público e saber se comunicar com ele.  
+Ser autêntico também é essencial.
+
+### Técnicas de engajamento
+#### Storytelling
+Contar histórias que façam o público se identificar ou criar conexão.
+
+#### Interação direta
+Responder comentários, fazer lives e utilizar caixas de perguntas.
+
+#### Call to action
+Incentivar explicitamente o público a interagir.
+
+#### Colaborações
+Realizar parcerias com seguidores ou outros influenciadores.
+
+#### Consistência
+Manter frequência de postagens e identidade visual.
+
+---
+
+## Marketing de conteúdo
+O marketing de conteúdo é anterior à internet.  
+Seu objetivo é entregar informação relevante e fortalecer a conexão entre a marca e o público.
+
+É uma estratégia muito positiva para gerar resultados expressivos e aumentar o engajamento.  
+Por isso, os investimentos nessa área continuam crescendo.
+
+---
+
+## Produção de conteúdo
+O conteúdo é o principal elemento esperado de um influenciador.  
+Ele deve ser estratégico e alinhado com o interesse do público.
+
+> **Nota:** um autor afirmou em 2015 que o conteúdo deve ser útil, relevante e confiável.
+
+Também é importante ter organização e planejamento para definir os melhores momentos de postagem.
+
+---
+
+## Growth Hacking
+![growth](https://controlf5.com.br/wp-content/uploads/2019/04/Growth_Hacking_1.jpg)
+
+Growth Hacking reúne conceitos de crescimento e solução de problemas.  
+
+São estratégias rápidas, experimentais e orientadas por dados para aumentar alcance e engajamento.  
+
+Consiste no uso inteligente de marketing e análise de dados para escalar resultados de forma criativa, muitas vezes sem depender de grandes investimentos em mídia paga.
+
+Combina criatividade, técnica, experimentação e soluções escaláveis.
+
+## Influencer
+O **marketing de influência** é uma das estratégias mais relevantes no meio digital.  
+Uma boa estratégia para as marcas é permitir que os influenciadores tenham liberdade para serem autênticos.  
+
+Por isso, a escolha de um influenciador deve ser bem analisada, levando em conta se seu comportamento e estilo combinam com a imagem da marca.
+
+### Influência digital
+A influência digital é a capacidade de uma pessoa ou marca influenciar públicos nos meios digitais, geralmente por meio de redes sociais.  
+
 A **horizontalidade da autoridade** é um conceito onde pertencimento e afinidade possuem mais peso do que status tradicional.  
 
 Hoje, a influência não está mais concentrada apenas em grandes mídias, mas em qualquer pessoa que consiga alcançar e engajar públicos na internet.  
